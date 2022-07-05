@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Concert One', cursive;
+  background-color: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=PT+Sans+Caption:wght@700&display=swap');
+
+h2{
+  font-family: 'Caveat', cursive;
+}
+h5{
+  font-family: 'PT Sans Caption', sans-serif;
+}
+
+#Search-Bar{
+  height: 5vh;
+  width: 25vw;
+  background-color: #a9a7a4;
+  font-weight: bolder;
+  font-size: 3vh;
+  /* @media(max-width: 768px){
+    height: 2vh;
+    width:20px;
+  } */
+}
+#Search-Image{
+  border: 2px solid black;
+  height: 5vh;
+  width: 2vw;
+  background-color: aliceblue;
+  
+}
+.search{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* @media(max-width: 768px){
+    height: 2vh;
+    width:20px;
+  } */
+}
+/* @media screen and (max-width: 576px) {
+  #Search-Image{
+    height: 5vh;
+    width: 100px;
+  }
+} */
+@media screen and (max-width: 992px) {
+  #Search-Bar{
+    height: 5vh;
+    width: 25vh;
+    font-size: 2vh;
+  }
+  #Search-Image{
+    height: 5vh;
+    width: 30px;
+  }
+}
