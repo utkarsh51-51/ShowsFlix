@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShowsFlix/static/css/main.648c8bfc.css",
+    "main.js": "/ShowsFlix/static/js/main.dfbb7f6b.js",
+    "static/js/787.e72d1616.chunk.js": "/ShowsFlix/static/js/787.e72d1616.chunk.js",
+    "index.html": "/ShowsFlix/index.html",
+    "static/media/search.svg": "/ShowsFlix/static/media/search.0b49c0f6c721910ccc9ff709dbe87343.svg",
+    "main.648c8bfc.css.map": "/ShowsFlix/static/css/main.648c8bfc.css.map",
+    "main.dfbb7f6b.js.map": "/ShowsFlix/static/js/main.dfbb7f6b.js.map",
+    "787.e72d1616.chunk.js.map": "/ShowsFlix/static/js/787.e72d1616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648c8bfc.css",
+    "static/js/main.dfbb7f6b.js"
+  ]
+}
